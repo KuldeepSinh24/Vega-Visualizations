@@ -14,7 +14,7 @@
 	"data": [
     {
 			"name": "losses",
-			"url": "url",
+			"url": "https://raw.githubusercontent.com/KuldeepSinh24/Vega-Visualizations/master/BarChart/losses2015_transformed.csv",
 			"format": {
 				"type": "csv",
 				"parse": "auto"
